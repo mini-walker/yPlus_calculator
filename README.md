@@ -50,6 +50,9 @@ This repository provides both an **executable tool** and a **technical LaTeX doc
 
 ## 🧰 Usage
 
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/mini-walker/yPlus-Calculator.git
+## 📦 Download
+
+The executable file (`Calculate_yPlus.exe`, 120 MB) is available here:
+
+👉 [Download from Dropbox](https://www.dropbox.com/scl/fi/txnnfgsbe94b0qx5x57uo/yPlus_Calculator.zip?rlkey=w448jwiwaj08b3cnwomstbli3&st=a658q7da&dl=0)
+
