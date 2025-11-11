@@ -3,6 +3,9 @@
 A lightweight and practical tool for CFD engineers to estimate **near-wall grid spacing**, **skin friction coefficient**, and **boundary-layer parameters** before mesh generation.  
 This repository provides both an **executable tool** and a **technical LaTeX document** explaining all the formulas and their references.
 
+The package can be downloaded with following link,
+👉 [Download from Dropbox](https://www.dropbox.com/scl/fi/txnnfgsbe94b0qx5x57uo/yPlus_Calculator.zip?rlkey=w448jwiwaj08b3cnwomstbli3&st=a658q7da&dl=0)
+
 ---
 
 ## 🚀 Features
