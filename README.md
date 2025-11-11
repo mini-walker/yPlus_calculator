@@ -12,7 +12,7 @@ This repository provides both an **executable tool** and a **technical LaTeX doc
     - Reynolds number  
     - Skin friction coefficient  
     - Boundary layer thickness  
-    - First-layer grid spacing (`Δy₁`)  
+    - First-layer grid spacing (`ΔS`)  
     - Number of prism layers (`N`)
   - Supports **cell-centered** and **vertex-centered** solvers.
   - Reads and writes data via `results.json` for easy integration into GUI tools or automated workflows.
